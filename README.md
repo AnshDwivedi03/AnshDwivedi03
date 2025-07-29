@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Database querry and Frontend<br>👯 I’m looking to collaborate on Frontend projects.<br>🤝 I’m looking for help with databases and web.<br>🌱 I’m currently learning Typescript<br>💬 Ask me about JS, DataStructure.
+🔭 I’m currently working on React <br>👯 I’m looking to collaborate on Fullstack projects.<br>🌱 I’m currently learning Typescript<br>💬 Ask me about JS, DataStructure.
 
 
 ## 🌐 Socials:
